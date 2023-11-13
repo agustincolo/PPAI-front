@@ -1,14 +1,44 @@
 #table {
     margin-top: 3.2% !important;
+    
   }
 
 td, th {
   font-family: 'Roboto', sans-serif;
   font-size: 1.2rem;
   text-align: center;
+  
 }
 
 #table {
     width: 60%;
-    
+     ;
   }
+
+
+.ps{
+  font-size: 1.3rem;
+  font-family: "Roboto";
+  display: flex;
+  justify-content: center;
+  color: black;
+
+}
+
+.text-color{
+  color: rgb(9, 158, 9) !important;
+  font-size: 1.1rem;
+  width: 14%;
+  margin: auto;
+}
+
+.text-error{
+  width: 14%;
+  margin: auto;
+}
+
+.a_link {
+  text-decoration: none;
+  color: white;
+  
+}

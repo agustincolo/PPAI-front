@@ -28,7 +28,8 @@ export const generarCSV = async (encuesta, llamada_id) => {
     console.log(obj)
     let csv = await axios.post(`http://localhost:8080/csv`, obj);
     console.log(csv)
+    return csv.data
   } catch (error) {
-    console.error(error)
+    return error.response.data.error
   }
 }

@@ -1,0 +1,20 @@
+.page_404 {
+    padding: 5% 30%;
+    font-family: 'Roboto';
+    width: 100%;
+    background-color: rgba(31, 1, 1, 0.24); /* Color de fondo con opacidad */
+    backdrop-filter: blur(30px); /* Efecto de difuminado */
+    border-radius: 10px;
+}
+
+.texter{
+    font-size: 90px;
+    color: white;
+}
+
+.lost{
+    font-size: 50px;
+    color: white;
+}
+
+
