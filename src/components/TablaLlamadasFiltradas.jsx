@@ -21,7 +21,9 @@ const TablaLlamadasFiltradas = ({ llamadasFiltradas }) =>  {
 
 return(
     <>
+      <h2 className='d-flex justify-content-center'>Llamadas Filtradas</h2>
   <div className="table-container d-flex justify-content-center">
+
   <table id="table" className="table table-bordered table-primary">
     <thead>
       <tr className="text-center">
