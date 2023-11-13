@@ -23,7 +23,7 @@ const LlamadaEncuesta = () => {
 
     return (
     <>
-      <button className='btn btn-primary my-3 mx-3 py-3 px-3'><Link to="/filtrarLlamadas" className="a_link">Atras</Link></button>
+      <Link to="/filtrarLlamadas" className="a_link"><button className='btn btn-primary my-3 mx-3 py-3 px-3'>Atras</button></Link>
       <div style={{ color: "black" }}>
         <h1 className="d-flex justify-content-center py-3">Detalles de la Encuesta</h1>
         <div className="py-3 ">

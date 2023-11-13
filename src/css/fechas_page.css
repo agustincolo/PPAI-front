@@ -10,7 +10,7 @@
     position: relative;
     top: 27vh;
     font-size: 2.1rem;
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
     font-family: 'Roboto', sans-serif;
     letter-spacing: 1px;
     font-weight: bold;
@@ -33,7 +33,7 @@ input{
 }
 
 .texto_{
-    color: white;
+    color: rgba(0, 0, 0, 0.699);
     position: relative;
-    top: 250px;
+    top: 240px;
 }
