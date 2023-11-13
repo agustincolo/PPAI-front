@@ -1,0 +1,22 @@
+.main_fechas{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 35vh;
+
+}
+
+.margin{
+    position: relative;
+    top: 27vh;
+    font-size: 2.1rem;
+}
+
+input{
+    margin-right: 10px !important;
+    height: 46px;
+    border-radius: 7px;
+    border-color: rgb(255, 255, 255) !important;
+    border: 0px;
+    text-align: center;
+}

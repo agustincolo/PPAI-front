@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&family=IBM+Plex+Sans:wght@100&family=Lato:wght@300&family=Roboto+Condensed:wght@300&family=Roboto:ital,wght@1,300&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background: linear-gradient(to right, #3498db, #8e44ad);
+}
+
+.boton {
+    display: flex;
+    justify-content: center;
+    margin-top: 35vh;
+ }
+
+.boton_size{
+    width: 200px !important;
+    height: 100px !important;
+    font-size: 1.2rem !important;
+}
