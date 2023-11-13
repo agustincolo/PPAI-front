@@ -10,6 +10,11 @@
     position: relative;
     top: 27vh;
     font-size: 2.1rem;
+    color:rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
 input{

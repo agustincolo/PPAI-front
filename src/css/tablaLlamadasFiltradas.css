@@ -1,0 +1,14 @@
+#table {
+    margin-top: 3.2% !important;
+  }
+
+td, th {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+#table {
+    width: 60%;
+    
+  }
